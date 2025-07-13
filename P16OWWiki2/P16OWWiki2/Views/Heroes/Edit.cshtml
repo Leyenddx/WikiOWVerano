@@ -1,0 +1,79 @@
+﻿@model P16OWWiki2.Models.Heroe
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Heroe</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Nombre" class="control-label"></label>
+                <input asp-for="Nombre" class="form-control" />
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RNombre" class="control-label"></label>
+                <input asp-for="RNombre" class="form-control" />
+                <span asp-validation-for="RNombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Edad" class="control-label"></label>
+                <input asp-for="Edad" class="form-control" />
+                <span asp-validation-for="Edad" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ocupa" class="control-label"></label>
+                <input asp-for="Ocupa" class="form-control" />
+                <span asp-validation-for="Ocupa" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Nacionalidad" class="control-label"></label>
+                <input asp-for="Nacionalidad" class="form-control" />
+                <span asp-validation-for="Nacionalidad" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Afiliacion1" class="control-label"></label>
+                <input asp-for="Afiliacion1" class="form-control" />
+                <span asp-validation-for="Afiliacion1" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Afiliacion2" class="control-label"></label>
+                <input asp-for="Afiliacion2" class="form-control" />
+                <span asp-validation-for="Afiliacion2" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Rol" class="control-label"></label>
+                <input asp-for="Rol" class="form-control" />
+                <span asp-validation-for="Rol" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Salud" class="control-label"></label>
+                <input asp-for="Salud" class="form-control" />
+                <span asp-validation-for="Salud" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Nomfoto" class="control-label"></label>
+                <input asp-for="Nomfoto" class="form-control" />
+                <span asp-validation-for="Nomfoto" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
