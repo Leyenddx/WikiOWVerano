@@ -1,9 +1,13 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\Fotos\0b6127ee-db67-4c1f-9b82-c6900ea5c743_OW2_Kiriko.webp
+wwwroot\Fotos\2af89ea0-338e-46b4-a0c1-6dae4971ef16_OW2_Sigma.webp
+wwwroot\Fotos\5e7ea626-ab90-4e53-8264-9d1d635cd889_OW2_Pharah.webp
 wwwroot\Fotos\86e72d03-1d2f-4700-9e2c-3206917f9128_OW2_Dva.webp
 wwwroot\Fotos\a151f375-faeb-4f36-bda8-c7348f04829f_OW2_Sigma.webp
 wwwroot\Fotos\a66dd887-6e63-4b96-a9c5-918fe968e0b7_OW2_Pharah.webp
 wwwroot\Fotos\ad9ced0e-f4bb-4b93-a7a9-012405482886_OW2_Kiriko.webp
+wwwroot\Fotos\c18a571b-c17b-4511-b800-e6a1acd17fc4_default.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
