@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LQ7CGhAgn1E=",
+  "dgSpecHash": "mXTh7IqorNE=",
   "success": true,
   "projectFilePath": "D:\\Master Folder\\Escuela\\Veranos\\Apis de datos\\Ejercicios\\Proyectos en Github\\WikiOWVerano\\P16OWWiki2\\P16OWWiki2\\P16OWWiki2.csproj",
   "expectedPackageFiles": [
@@ -115,6 +115,8 @@
     "C:\\Users\\Leyenddx\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
     "C:\\Users\\Leyenddx\\.nuget\\packages\\mono.texttemplating\\2.3.1\\mono.texttemplating.2.3.1.nupkg.sha512",
     "C:\\Users\\Leyenddx\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Leyenddx\\.nuget\\packages\\npgsql\\8.0.6\\npgsql.8.0.6.nupkg.sha512",
+    "C:\\Users\\Leyenddx\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.11\\npgsql.entityframeworkcore.postgresql.8.0.11.nupkg.sha512",
     "C:\\Users\\Leyenddx\\.nuget\\packages\\nuget.common\\6.11.0\\nuget.common.6.11.0.nupkg.sha512",
     "C:\\Users\\Leyenddx\\.nuget\\packages\\nuget.configuration\\6.11.0\\nuget.configuration.6.11.0.nupkg.sha512",
     "C:\\Users\\Leyenddx\\.nuget\\packages\\nuget.dependencyresolver.core\\6.11.0\\nuget.dependencyresolver.core.6.11.0.nupkg.sha512",

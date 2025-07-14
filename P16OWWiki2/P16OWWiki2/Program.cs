@@ -10,7 +10,7 @@ namespace P16OWWiki2
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-            builder.Services.AddDbContext<HeroeContext>(o => o.UseSqlServer(builder.Configuration.GetConnectionString("HeroeCon")));
+            builder.Services.AddDbContext<HeroeContext>(options => options.UseNpgsql(builder.Configuration.GetConnectionString("HeroeCon")));
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
