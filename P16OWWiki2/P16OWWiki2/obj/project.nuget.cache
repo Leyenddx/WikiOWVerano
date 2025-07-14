@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8Pa5r7G/5Jo=",
+  "dgSpecHash": "LQ7CGhAgn1E=",
   "success": true,
-  "projectFilePath": "D:\\Master Folder\\Escuela\\Veranos\\Apis de datos\\Ejercicios\\P16OWWiki2\\P16OWWiki2\\P16OWWiki2.csproj",
+  "projectFilePath": "D:\\Master Folder\\Escuela\\Veranos\\Apis de datos\\Ejercicios\\Proyectos en Github\\WikiOWVerano\\P16OWWiki2\\P16OWWiki2\\P16OWWiki2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Leyenddx\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Leyenddx\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
