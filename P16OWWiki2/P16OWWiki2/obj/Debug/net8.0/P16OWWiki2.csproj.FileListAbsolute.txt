@@ -515,3 +515,5 @@ D:\Master Folder\Escuela\Veranos\Apis de datos\Ejercicios\Proyectos en Github\Wi
 D:\Master Folder\Escuela\Veranos\Apis de datos\Ejercicios\Proyectos en Github\WikiOWVerano\P16OWWiki2\P16OWWiki2\obj\Debug\net8.0\P16OWWiki2.pdb
 D:\Master Folder\Escuela\Veranos\Apis de datos\Ejercicios\Proyectos en Github\WikiOWVerano\P16OWWiki2\P16OWWiki2\obj\Debug\net8.0\P16OWWiki2.genruntimeconfig.cache
 D:\Master Folder\Escuela\Veranos\Apis de datos\Ejercicios\Proyectos en Github\WikiOWVerano\P16OWWiki2\P16OWWiki2\obj\Debug\net8.0\ref\P16OWWiki2.dll
+D:\Master Folder\Escuela\Veranos\Apis de datos\Ejercicios\Proyectos en Github\WikiOWVerano\P16OWWiki2\P16OWWiki2\bin\Debug\net8.0\Npgsql.dll
+D:\Master Folder\Escuela\Veranos\Apis de datos\Ejercicios\Proyectos en Github\WikiOWVerano\P16OWWiki2\P16OWWiki2\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
