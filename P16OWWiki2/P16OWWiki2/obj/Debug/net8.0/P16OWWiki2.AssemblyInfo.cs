@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("P16OWWiki2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9b7edd644f5ae38179832a27bd901aa7832e74d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1217cef3c10ac9e606ed6ab9234055d3995f5afa")]
 [assembly: System.Reflection.AssemblyProductAttribute("P16OWWiki2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("P16OWWiki2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

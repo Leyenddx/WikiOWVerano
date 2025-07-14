@@ -11,6 +11,7 @@ namespace P16OWWiki2
 
             // Add services to the container.
             builder.Services.AddDbContext<HeroeContext>(options => options.UseNpgsql(builder.Configuration.GetConnectionString("HeroeCon")));
+
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
