@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Master Folder\\Escuela\\Veranos\\Apis de datos\\Ejercicios\\Proyectos en Github\\WikiOWVerano\\P16OWWiki2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AF2EC64B-F801-48EE-8F2F-6B453250F6EB}|P16OWWiki2\\P16OWWiki2.csproj|d:\\master folder\\escuela\\veranos\\apis de datos\\ejercicios\\proyectos en github\\wikiowverano\\p16owwiki2\\p16owwiki2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF2EC64B-F801-48EE-8F2F-6B453250F6EB}|P16OWWiki2\\P16OWWiki2.csproj|solutionrelative:p16owwiki2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AF2EC64B-F801-48EE-8F2F-6B453250F6EB}|P16OWWiki2\\P16OWWiki2.csproj|d:\\master folder\\escuela\\veranos\\apis de datos\\ejercicios\\proyectos en github\\wikiowverano\\p16owwiki2\\p16owwiki2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AF2EC64B-F801-48EE-8F2F-6B453250F6EB}|P16OWWiki2\\P16OWWiki2.csproj|solutionrelative:p16owwiki2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -39,6 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Master Folder\\Escuela\\Veranos\\Apis de datos\\Ejercicios\\Proyectos en Github\\WikiOWVerano\\P16OWWiki2\\P16OWWiki2\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "P16OWWiki2\\appsettings.Development.json",
+              "ToolTip": "D:\\Master Folder\\Escuela\\Veranos\\Apis de datos\\Ejercicios\\Proyectos en Github\\WikiOWVerano\\P16OWWiki2\\P16OWWiki2\\appsettings.Development.json",
+              "RelativeToolTip": "P16OWWiki2\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-14T03:56:17.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Master Folder\\Escuela\\Veranos\\Apis de datos\\Ejercicios\\Proyectos en Github\\WikiOWVerano\\P16OWWiki2\\P16OWWiki2\\appsettings.json",
               "RelativeDocumentMoniker": "P16OWWiki2\\appsettings.json",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Master Folder\\Escuela\\Veranos\\Apis de datos\\Ejercicios\\Proyectos en Github\\WikiOWVerano\\P16OWWiki2\\P16OWWiki2\\Program.cs",
               "RelativeDocumentMoniker": "P16OWWiki2\\Program.cs",
@@ -59,12 +76,11 @@
               "RelativeToolTip": "P16OWWiki2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T18:21:54.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-13T18:21:54.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Master Folder\\Escuela\\Veranos\\Apis de datos\\Ejercicios\\Proyectos en Github\\WikiOWVerano\\P16OWWiki2\\P16OWWiki2\\Views\\Heroes\\Edit.cshtml",
               "RelativeDocumentMoniker": "P16OWWiki2\\Views\\Heroes\\Edit.cshtml",
@@ -76,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "HeroesController.cs",
               "DocumentMoniker": "D:\\Master Folder\\Escuela\\Veranos\\Apis de datos\\Ejercicios\\Proyectos en Github\\WikiOWVerano\\P16OWWiki2\\P16OWWiki2\\Controllers\\HeroesController.cs",
               "RelativeDocumentMoniker": "P16OWWiki2\\Controllers\\HeroesController.cs",
@@ -88,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Heroe.cs",
               "DocumentMoniker": "D:\\Master Folder\\Escuela\\Veranos\\Apis de datos\\Ejercicios\\Proyectos en Github\\WikiOWVerano\\P16OWWiki2\\P16OWWiki2\\Models\\Heroe.cs",
               "RelativeDocumentMoniker": "P16OWWiki2\\Models\\Heroe.cs",
@@ -100,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Master Folder\\Escuela\\Veranos\\Apis de datos\\Ejercicios\\Proyectos en Github\\WikiOWVerano\\P16OWWiki2\\P16OWWiki2\\Views\\Heroes\\Index.cshtml",
               "RelativeDocumentMoniker": "P16OWWiki2\\Views\\Heroes\\Index.cshtml",
